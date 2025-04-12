@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "yahofinance2",
-  "private_key_id": "f79b9b80b38cc9c3cd41ba9f5d435c5856eb05e3",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwWOjNtOvK/weQ\nITGU8pj8JPKt93PxkLjebUXQQEK/HnJMAVXrSKxT1PcEUmN0v5QmrJVE8QLWereL\nW5tJd/Mi/XJtsqLpikKgt911aVoHRnXvaWAa5g2JKqCFowlVdTSVFolXeUmZGOn5\n1quxd6eLqk7NqflJVFT+4x7lvePfFH7a2fRPE5j2pOz20gHTSdB+oPWSjUMCvTMH\nTdSYMCPj/ern81yuwoNumE+cvd4hQrx9BOEV14ou/7n5nd7a7OPs3KCFHVAlzwGj\niykREzshrYb84dZRveudLcYoGTpf4LZNYLGhlmA2RiNYMDsi2B3xlXxtWqbos6LO\nwyTZEve3AgMBAAECggEAQOoRlHt3WsvDQHJ/mmktGJAPRyuyYedYrgQCcXTePRUb\nlM/fDVO8n8ViwpQDaVwGULAx6GVhmosk2mc3w/UkKqqqPyhFYPuUqC3WlxxXWBs/\nWYhsKKqrq+TlnxvTWUJiP0lC+FC831707hNwM00s/zQLexiJG82v1f3MB1z9r0Vy\nKrlPqotCqyJqCZdwCsTZO1hSL0Rjk85VfLBa889wS8/CRll3d3JpCoAvICEOTOBq\nQ7hK4AgTx8pRB3xZNo/bLlYekSgYU82wEPt0/f4zAmukNgTPvnKyKdgeWovszpW5\nLfM7tYW6ASzyb+W3fkPcKVbJJXZlfApuWSlaetevGQKBgQDuqNKtNSeZTGQ/3bHH\nwjYrekEZylzBaP+G9nJGUvaaMAiXIuCj/CPtN6+Z3rLkH88cxURnJWeMR2Bde+wE\noXjavb1/qNGj7kkLk0SVZhoMCDM3eoy34NIWsEy9gl91NGitjOwp9PaHWHEQERq7\nIqwVAXxvW/l5BQA10SBV+zE1qQKBgQC9KQ0dhA9gJaIP/jnHNwfFKxG0IXg0juF/\nyIfQChpwfg5WgEvyUzYzTfXbPDUyFrsg+J69sOKOjZvBWI4sj5j/tg5F2Cp8LIId\nqLYa70icpxEnQe4q4WZTZkMpob+n6HzvF06SDhkdzlLu5xbzHEM0xxWiXuhbHels\nlMvc6LxeXwKBgDnjCPaqJeiw9r/m7fAd0zXIeXHf+4+OACykKiOUi+vqKqs98m7U\nAYLQNu+DbLCYZov77RN3px4HUgBaxmx5He8whn4oXHD+owkDt2blVPwGISYbu3X+\nOfb23CY7MRwkkh9GRyIGIKXDdekHvQwW5NZTffMkw+XuqJZlGwq/2rfBAoGAZGON\n91Unx9IRIUW9qjFVaVmDKsL8hYAywttM4KcMAxmTSGsMY02wHShJy5E3dh7ELypj\nLK7cfeU/fSwfQBzxiPw4tO6VFZOVdmIcS00kjybHHruJx64Z3TcPe9/A1D65VzZa\nV38t6zidoPZ5oookTLU/kQ2naPwF7r9FNjc6CScCgYEAtQs1U3mjAGH4B+RIfvhn\nl425AomGpX+iMdlaou9Y1a6YILflgIGEViFp8pviXMBbat6mzejFAdF/RucbzE3j\njyRlJ2v27jspshcy65GsnpmOKx1r4Pntyy5UHeXVGVcPOEVdPc6jkMdqqV3nNqin\nYiFczknvGRIqWKZ5xk6zcug=\n-----END PRIVATE KEY-----\n",
-  "client_email": "python2sheet@yahofinance2.iam.gserviceaccount.com",
-  "client_id": "101615833992362927078",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python2sheet%40yahofinance2.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
